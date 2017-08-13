@@ -1,0 +1,31 @@
+{
+  "name": "items-api",
+  "version": "1.0.0",
+  "description": "Items API for Tropicana",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfarix/items-api.git"
+  },
+  "keywords": [
+    "items",
+    "api",
+    "tropicana"
+  ],
+  "author": "Mohamed Fariz Nazeer",
+  "email": "faariz@gmail.com",
+  "url": "http://faariz.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfarix/items-api/issues",
+    "email": "faariz@gmail.com"
+  },
+  "homepage": "https://github.com/mfarix/items-api#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
